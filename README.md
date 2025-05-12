@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here you'll find a mix of projects and ideas that 
 - 🤝 **Collaborative Spirit:** I'm always open to collaborating on exciting and meaningful projects. Let's build something amazing together!
 
 ## Get in Touch
-- 📧 **Email:** [mats@matssjodin.com](mailto:mats@matssjodin.com)
+- 📧 **Email:** sjodin@gmail.com
 
 ---
 
