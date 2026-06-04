@@ -9,7 +9,7 @@ Welcome to my GitHub profile! This is where I explore ideas, build products, and
 - 🤝 **Builder at Heart:** I’m open to collaborating on meaningful projects, especially those involving AI-powered tools, developer platforms, or product-driven software.
 
 ## Get in Touch
-- 📧 **Email:** sjodin@gmail.com
+- 📧 https://matssjodin.com/contact/
 
 ---
 
