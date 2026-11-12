@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Mats
+# 👋 Hello World! I'm Mats
 
 Welcome to my GitHub profile! This is where I explore ideas, build products, and turn concepts into working applications.
 
